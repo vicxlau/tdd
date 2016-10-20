@@ -1,0 +1,12 @@
+2016-10-20T06:07:30.890Z - info: ::1 GET /example 304 15.357 ms
+2016-10-20T06:10:49.454Z - info: ::1 GET /example 304 15.355 ms
+2016-10-20T06:10:53.773Z - info: ::1 GET /v1/example 200 3.858 ms
+2016-10-20T06:21:50.657Z - info: ::1 GET /v1/example 200 15.094 ms
+2016-10-20T06:22:01.449Z - info: ::1 GET /example 304 5.376 ms
+2016-10-20T06:33:47.943Z - info: ::1 GET /example 304 14.892 ms
+2016-10-20T06:33:54.689Z - info: ::1 GET /v1/function 200 4.507 ms
+2016-10-20T06:34:08.045Z - info: ::1 GET /v2/function 200 1.635 ms
+2016-10-20T06:56:08.879Z - info: ::1 GET /v2/function 304 14.423 ms
+2016-10-20T06:56:12.862Z - info: ::1 GET /v1/function 304 3.825 ms
+2016-10-20T06:56:53.743Z - info: ::1 GET /v2/function 304 1.872 ms
+2016-10-20T06:57:03.040Z - info: ::1 GET /example 304 1.529 ms
