@@ -10,4 +10,3 @@
 2016-10-20T06:56:12.862Z - info: ::1 GET /v1/function 304 3.825 ms
 2016-10-20T06:56:53.743Z - info: ::1 GET /v2/function 304 1.872 ms
 2016-10-20T06:57:03.040Z - info: ::1 GET /example 304 1.529 ms
-test
