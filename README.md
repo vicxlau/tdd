@@ -174,8 +174,10 @@ In terminal, go to app root folder (where *package.json* is located), run `npm i
     ![](./images/fileTemplate/mocha_opts_sample.png)
 
 // mocha.opts ===============================
+
 */test/*/*
 --recursive
+
 // end of mocha.opts ===============================
 
 
