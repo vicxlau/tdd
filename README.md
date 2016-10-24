@@ -176,6 +176,7 @@ In terminal, go to app root folder (where *package.json* is located), run `npm i
 // mocha.opts ===============================
 
 \*/test/\*/\* 
+
 --recursive
 
 // end of mocha.opts ===============================
